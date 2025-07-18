@@ -30,8 +30,8 @@ Example entries from `baseurl_paths.txt`:
 
 > _Skip this if you're only interested in the final data. This section is for transparency and reproducibility._
 
-1. Searched GitHub for `.yaml` files using dorks.
-2. Downloaded the identified YAMLs into a single folder.
+1. Searched GitHub for `.yaml` files (Nuclei Templates ) using dorks.
+2. Downloaded the identified Nuclei Templates into a single folder (using Bash Scripts).
 3. Used `sha256sum` to remove duplicate files by hash.
 4. Extracted lines containing `{{BaseURL}}/` using `grep`, `awk`, and `tr`.
 5. Sorted and deduplicated the output with `sort -u`.
