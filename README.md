@@ -1,4 +1,4 @@
-#  Unique YAML BaseURL Paths 
+#  Unique Nuclei Template BaseURL Paths 
 
 <img width="2048" height="997" alt="image" src="https://github.com/user-attachments/assets/f9c0655d-8186-46f5-ae5c-d26b25a6f2d8" />
 
