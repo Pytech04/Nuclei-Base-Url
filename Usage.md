@@ -14,7 +14,7 @@ The goal of `baseurl_paths.txt` is to provide:
 
 *  A curated list of commonly exposed or misconfigured endpoints
 *  Reusable base paths for fuzzing and endpoint discovery
-* 🛠 Optimized compatibility with automation tools
+*  Optimized compatibility with automation tools
 
 ---
 
