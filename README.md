@@ -10,11 +10,13 @@ This repository contains a curated set of unique BaseURL endpoint paths extracte
 
 Example entries from `baseurl_paths.txt`:
 
+```
 /wp-content/uploads/pdf-invoices/
 /xmlrpc/cache/index.html
 /xmlrpc/includes/index.html
 /Xslt/Web.config
 /yarn.lock
+```
 
 
 ## ⚙️ How It Was Built
