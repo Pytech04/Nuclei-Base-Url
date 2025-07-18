@@ -4,7 +4,7 @@
 
 ##  File: `baseurl_paths.txt`
 
-This file contains a comprehensive list of base paths intended for use in web reconnaissance, vulnerability scanning, and automated enumeration—particularly in conjunction with tools like [Nuclei](https://github.com/projectdiscovery/nuclei), [ffuf](https://github.com/ffuf/ffuf), [dirsearch](https://github.com/maurosoria/dirsearch), and other similar tools.
+This file contains a comprehensive list of base paths intended for use in web reconnaissance, vulnerability scanning, and automated enumeration—particularly in conjunction with tools like [ffuf](https://github.com/ffuf/ffuf), [dirsearch](https://github.com/maurosoria/dirsearch), and other similar tools.
 
 ---
 
