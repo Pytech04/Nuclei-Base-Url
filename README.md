@@ -10,7 +10,7 @@
 
 
 ##  What’s Inside
-- This repository contains a curated set of unique BaseURL endpoint paths extracted from publicly available YAML files across GitHub.
+- This repository contains a curated set of unique BaseURL endpoint paths extracted from publicly available Nuclei templates across GitHub.
 - A collection of **deduplicated YAML files**, gathered from public GitHub repositories.
 - Extracted **endpoint paths** containing `{{BaseURL}}/`, cleaned and filtered.
 - **`baseurl_paths.txt`**: A sorted, unique list of paths useful for fuzzing, endpoint discovery, automation, or recon pipelines.
