@@ -1,15 +1,16 @@
 #  Unique YAML BaseURL Paths 
 
-<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/2bdf4cae-11cc-45b6-a09a-307d5fbbb3a3" />
+<img width="2048" height="997" alt="image" src="https://github.com/user-attachments/assets/f9c0655d-8186-46f5-ae5c-d26b25a6f2d8" />
 
 
 
 
 
-This repository contains a curated set of unique BaseURL endpoint paths extracted from publicly available YAML files across GitHub.
+
+
 
 ##  What’s Inside
-
+- This repository contains a curated set of unique BaseURL endpoint paths extracted from publicly available YAML files across GitHub.
 - A collection of **deduplicated YAML files**, gathered from public GitHub repositories.
 - Extracted **endpoint paths** containing `{{BaseURL}}/`, cleaned and filtered.
 - **`baseurl_paths.txt`**: A sorted, unique list of paths useful for fuzzing, endpoint discovery, automation, or recon pipelines.
