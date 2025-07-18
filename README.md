@@ -1,4 +1,4 @@
-# 🧾 Unique YAML BaseURL Paths Extractor
+# 🧾 Unique YAML BaseURL Paths 
 
 This repository contains a curated set of unique BaseURL endpoint paths extracted from publicly available YAML files across GitHub.
 
